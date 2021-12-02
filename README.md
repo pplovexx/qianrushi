@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 # qianrushi 
-this maybe a little change
+QIAN RU SHIexperiment and some  test file 
 experiment and some  test file and record something
+
