@@ -1,4 +1,5 @@
 # qianrushi 
 QIAN RU SHIexperiment and some  test file 
-experiment and some  test file and record something
+in this repositry ,you can find the basic 
+concept of embeded system program
 
